@@ -1,0 +1,10 @@
+groq
+pandas
+matplotlib
+streamlit
+python-dotenv
+openpyxl
+fpdf2
+prophet
+reportlab
+pillow
